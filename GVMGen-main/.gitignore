@@ -1,0 +1,4 @@
+examples_of_results/
+checkpoints/
+
+*.log
